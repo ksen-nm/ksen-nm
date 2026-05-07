@@ -1,4 +1,4 @@
-# Hey, I'm Kay — I make data make sense. 👋
+# Hey, I'm Kay - I make data make sense. 👋
 
 *Data Analyst · SQL & Python · Tableau · The person who actually explains what the numbers mean*
 
@@ -6,9 +6,15 @@
 
 ## About me
 
-Most analysts hand you a chart. I hand you a **decision**. With 1.5 years of experience in data analysis, pipeline design, and stakeholder reporting, I bridge the gap between raw data and the people who need to act on it.
+Most analysts hand you a chart. I hand you a **decision**.
 
-Before data, I taught. Before that, I managed student workers and university events — coordinating teams, juggling deadlines, and communicating across wildly different personalities. Turns out that's the best possible training for being a data analyst.
+I started my career as a teacher - then moved to the US, joined SUNY Binghamton, 
+and worked my way through a Data Science degree while managing student workers and 
+university events on the side. Two careers before data analytics. Turns out both 
+were training for it the whole time.
+
+Now I bring that same clarity - explaining complex things simply, working across 
+teams, keeping things moving - to pipelines, dashboards, and stakeholder reports.
 
 ---
 
